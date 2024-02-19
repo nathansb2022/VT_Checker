@@ -27,5 +27,5 @@ sudo apt-get install jq
 
 ### Links
 
-[VirusTotal API reference](https://docs.virustotal.com/reference/scan-url
+[VirusTotal API reference](https://docs.virustotal.com/reference/scan-url)
 
